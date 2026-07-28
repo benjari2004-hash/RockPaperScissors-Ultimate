@@ -49,3 +49,8 @@ javac RockPaperScissorsGame.java
 Run:
 
 java RockPaperScissorsGame
+## Documentation
+
+You can find the complete project report here:
+
+[Final Project Report](docs/Final_Project_Report.docx)
